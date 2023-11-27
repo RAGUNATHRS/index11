@@ -1,0 +1,38 @@
+/* Existing CSS styles */
+
+/* New styles for pet products */
+.product {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.product img {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.product h3 {
+  margin-top: 0;
+}
+
+.product p {
+  margin: 5px 0;
+}
+
+.product button {
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.product button:hover {
+  background-color: #555;
+}
